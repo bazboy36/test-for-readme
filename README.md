@@ -1,20 +1,20 @@
 # test-for-readme
 lets start this ....woooooooooo......
 
-##testing for italics
+## testing for italics
 
  *this should be wwritten in italics*
  _it can also be written using underscores and asterisks_
 
-##test for bold
+## test for bold
 
  **this should be bold**
 
-##strike throughs
+## strike throughs
 
 ~~this should be striked through~~
 
-##orderred lists
+## orderred lists
 
 yeahhhhhh
 
@@ -30,7 +30,7 @@ yeahhhhhh
 * rori
 
  
-#links
+### links
 
 	[my github link](https://github.com/bazboy36)
 
